@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the accompanying whitepaper."
+title: "geo-entity-validator"
+type: software
+authors:
+  - family-names: "Zhong"
+    given-names: "Qicai"
+license: MIT
+repository-code: "https://github.com/hohoqi-geo/geo-entity-validator"
+url: "https://geo-audit.co"
+preferred-citation:
+  type: report
+  title: "Generative Engine Optimization (GEO): Technical Grounding, Entity Resolution, and Verification Framework v1.0"
+  authors:
+    - family-names: "Zhong"
+      given-names: "Qicai"
+  year: 2026
+  doi: "10.5281/zenodo.23316044"
+  publisher:
+    name: "Zenodo"
