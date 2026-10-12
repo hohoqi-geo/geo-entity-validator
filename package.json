@@ -1,0 +1,1 @@
+{"name":"geo-entity-validator","version":"0.1.0","description":"Read-only checker for AI crawler access (RFC 9309), llms.txt and Schema.org JSON-LD entity signals.","type":"module","license":"MIT","scripts":{"check":"tsx src/validator.ts"},"devDependencies":{"tsx":"^4.23.15"},"engines":{"node":">=18"}}
